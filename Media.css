@@ -1,0 +1,27 @@
+/*------Media Queries-----------*/
+@media(min-width:1200px)
+{
+html{
+    font-size: 60%;
+}
+}
+@media(max-width:1199px)
+{
+html{
+    font-size: 40%;
+}
+}
+@media(max-width:991px)
+{
+html{
+    font-size: 40%;
+}
+
+}
+
+@media(max-width:767px)
+{
+ html{
+     font-size:30% ;
+ }
+}
